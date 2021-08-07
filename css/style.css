@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,400);
+@import url(https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+
+.clear {
+    clear: both;
+}
+
+footer
+{
+    font-family: Raleway;
+    margin: 0 auto;
+	padding: 5em 3em;
+	text-align: center;
+    background: white;
+}
+
+footer div
+{
+  color: #AAA;
+}
+
+footer div ul {
+    float: left;
+    list-style: none;
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+
+footer div ul li 
+{
+    text-align: -webkit-match-parent;
+    float: left;
+    padding: 40px;
+}
+
+ #jenin{
+    font-size: 26px;   
+}
+
+
+.item10{
+    
+    height: 50px;
+    width: 50px;
+    display:inline-block;
+    margin: 10px 5px 0;
+    font-size: 35px;
+    border-radius: 50%;
+    padding: 7px;
+}
+
+.item10:hover{
+    background-color: black;
+}
